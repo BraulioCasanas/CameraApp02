@@ -1,4 +1,4 @@
 CameraApp02
 ===========
 
-Vodeo capture using the Android framework
+Video capture using the Android framework
